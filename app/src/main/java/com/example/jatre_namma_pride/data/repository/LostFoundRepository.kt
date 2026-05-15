@@ -21,16 +21,7 @@ object LostFoundRepository {
     // ── Seed on first launch ─────────────────────────────────────────────────
 
     suspend fun seedIfNeeded() {
-        // The user requested to remove all data in Lost & Found.
-        // This will clear the entire Firestore collection.
-        val snapshot = col.get().await()
-        if (!snapshot.isEmpty) {
-            val batch = db.batch()
-            snapshot.documents.forEach { doc ->
-                batch.delete(doc.reference)
-            }
-            batch.commit().await()
-        }
+        // No default items to seed, and we should NOT delete user data on app launch.
     }
 
     // ── Real-time Flow ───────────────────────────────────────────────────────

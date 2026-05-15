@@ -218,9 +218,9 @@ fun LostFoundScreen() {
         PostItemDialog(
             onDismiss = { showPostDialog = false },
             onSubmit = { newItem ->
+                showPostDialog = false
                 coroutineScope.launch {
                     LostFoundRepository.insertItem(newItem)
-                    showPostDialog = false
                 }
             },
             nextId = (items.maxOfOrNull { it.id } ?: 0) + 1
@@ -594,7 +594,7 @@ private fun PostItemDialog(
                         if (valid) {
                             onSubmit(
                                 LostFoundItem(
-                                    id = 0,
+                                    id = nextId,
                                     titleEn = title.trim(),
                                     titleKn = "",
                                     descriptionEn = description.trim(),
