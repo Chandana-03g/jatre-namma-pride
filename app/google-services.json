@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501724704793",
+    "project_id": "namma-jatre",
+    "storage_bucket": "namma-jatre.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501724704793:android:64cbfb90c57eb374107a88",
+        "android_client_info": {
+          "package_name": "com.example.jatre_namma_pride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdbXddg4M4NPpkaQy7b5b_lBU6A9yGH5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

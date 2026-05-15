@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಜಾತ್ರೆ ನಮ್ಮ ಹೆಮ್ಮೆ</string>
+    <string name="welcome_jatre">ನಮಸ್ಕಾರ! ಜಾತ್ರೆಗೆ ಸುಸ್ವಾಗತ</string>
+    <string name="happening_now">ಈಗ ನಡೆಯುತ್ತಿದೆ</string>
+    <string name="next_event">ಮುಂದಿನ ಕಾರ್ಯಕ್ರಮ</string>
+    <string name="quick_access">ತ್ವರಿತ ಮಾಹಿತಿ</string>
+    <string name="live_schedule">ಕಾರ್ಯಕ್ರಮಗಳ ವೇಳಾಪಟ್ಟಿ</string>
+    <string name="fair_map">ಜಾತ್ರೆಯ ನಕ್ಷೆ</string>
+    <string name="lost_found">ಕಳೆದುಹೋದ ಹಾಗೂ ಸಿಕ್ಕ ವಸ್ತುಗಳು</string>
+    <string name="safety_parking">ಸುರಕ್ಷತೆ ಮತ್ತು ಪಾರ್ಕಿಂಗ್</string>
+    <string name="cultural_stories">ಸಾಂಸ್ಕೃತಿಕ ಕಥೆಗಳು</string>
+    <string name="live">ನೇರ ಪ್ರಸಾರ</string>
+    <string name="day_2_of_3">3 ದಿನಗಳು</string>
+    <string name="view_schedule">ವೇಳಾಪಟ್ಟಿ ವೀಕ್ಷಿಸಿ →</string>
+    <string name="report_item">ವಸ್ತುವಿನ ಮಾಹಿತಿ ನೀಡಿ</string>
+    <string name="search_lost_found">ಕಳೆದುಹೋದ ವಸ್ತುಗಳನ್ನು ಹುಡುಕಿ...</string>
+    <string name="all_items">ಎಲ್ಲಾ</string>
+    <string name="status_lost">ಕಳೆದುಹೋಗಿದೆ</string>
+    <string name="status_found">ದೊರಕಿದೆ</string>
+    <string name="contact_owner">ಮಾಲೀಕರನ್ನು ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="claim_item">ವಸ್ತುವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ</string>
+    <string name="name_title">ಹೆಸರು / ಶೀರ್ಷಿಕೆ *</string>
+    <string name="name_placeholder">ಉದಾ: ನೀಲಿ ಬ್ಯಾಗ್, ಹುಡುಗ – ರಾಜು</string>
+    <string name="description_spec">ವಿವರಣೆ / ಗುರುತುಗಳು *</string>
+    <string name="desc_placeholder">ಬಣ್ಣ, ಗಾತ್ರ, ಗುರುತುಗಳು...</string>
+    <string name="location">ಸ್ಥಳ *</string>
+    <string name="loc_placeholder">ಉದಾ: ವಲಯ A — ದೇವಸ್ಥಾನ</string>
+    <string name="contact_number">ಸಂಪರ್ಕ ಸಂಖ್ಯೆ *</string>
+    <string name="contact_placeholder">10-ಅಂಕಿಯ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ</string>
+    <string name="your_name">ನಿಮ್ಮ ಹೆಸರು *</string>
+    <string name="your_name_placeholder">ಉದಾ: ರಮೇಶ್ ಕುಮಾರ್</string>
+    <string name="cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="submit">ಸಲ್ಲಿಸಿ</string>
+    <string name="safety_map">ಸುರಕ್ಷತಾ ನಕ್ಷೆ</string>
+    <string name="safety_reminder">ಸುರಕ್ಷತಾ ಸೂಚನೆ</string>
+    <string name="safety_reminder_text">ಜಾತ್ರೆಯ ಜನದಟ್ಟಣೆಯಲ್ಲಿ ನಿಮ್ಮ ಬೆಲೆಬಾಳುವ ವಸ್ತುಗಳ ಬಗ್ಗೆ ಎಚ್ಚರವಿರಲಿ.</string>
+    <string name="events_today">27 ಕಾರ್ಯಕ್ರಮಗಳು</string>
+    <string name="zones_8">8 ವಲಯಗಳು</string>
+    <string name="active_3">3 ಸಕ್ರಿಯ</string>
+    <string name="zones_2">2 ವಲಯಗಳು</string>
+    <string name="yellamma_jatre">ಕದ್ರಿ ಮಂಜುನಾಥ ದೇವಸ್ಥಾನ ಜಾತ್ರೆ</string>
+    <string name="yellamma_location_date">ಮಂಗಳೂರು, ಕರ್ನಾಟಕ · ಮೇ 16–ಮೇ 18, 2026</string>
+    <string name="kannada_schedule">ವೇಳಾಪಟ್ಟಿ</string>
+    <string name="kannada_map">ನಕ್ಷೆ</string>
+    <string name="kannada_lost_found">ಕಳೆದದ್ದು / ಸಿಕ್ಕಿದ್ದು</string>
+    <string name="kannada_safety">ಸುರಕ್ಷತೆ</string>
+    <string name="live_now_day_2">ಜಾತ್ರೆಯ ವೇಳಾಪಟ್ಟಿ</string>
+    <string name="todays_events">ಇಂದಿನ ಕಾರ್ಯಕ್ರಮಗಳು</string>
+    <string name="date_jatre">ಮೇ 16–18, 2026</string>
+    <string name="upcoming_completed">ಮುಂಬರುವ ಮತ್ತು ಮುಕ್ತಾಯವಾದ</string>
+    <string name="started">ಪ್ರಾರಂಭ</string>
+    <string name="ends">ಮುಕ್ತಾಯ</string>
+    <string name="help_desk">ಸಹಾಯ ಕೇಂದ್ರ</string>
+    <string name="jatre_help_desk">ಜಾತ್ರೆ ಸಹಾಯ ಕೇಂದ್ರ</string>
+    <string name="religious">ಧಾರ್ಮಿಕ</string>
+    <string name="cultural">ಸಾಂಸ್ಕೃತಿಕ</string>
+    <string name="sports">ಕ್ರೀಡೆ</string>
+    <string name="trade">ವ್ಯಾಪಾರ</string>
+    <string name="resolved">ಪರಿಹರಿಸಲಾಗಿದೆ</string>
+    <string name="safety_map_subtitle">ಸುರಕ್ಷತೆ ಮತ್ತು ನಕ್ಷೆ · ಪಾರ್ಕಿಂಗ್ · ಪ್ರಥಮ ಚಿಕಿತ್ಸೆ · ಮಳಿಗೆಗಳು</string>
+    <string name="map_legend">ನಕ್ಷೆಯ ವಿವರಣೆ</string>
+    <string name="safety_guidelines">ಸುರಕ್ಷತಾ ಕ್ರಮಗಳು</string>
+    <string name="safety_reminder_desc">ಮಕ್ಕಳ ಮೇಲೆ ನಿಗಾ ಇರಲಿ. ದೇವಸ್ಥಾನದ ಗೇಟ್ ಬಳಿ ಪ್ರಥಮ ಚಿಕಿತ್ಸಾ ಕೇಂದ್ರವಿದೆ. ತುರ್ತು ಸಂಪರ್ಕ: </string>
+    <string name="app_title_mixed">ನಮ್ಮ ಜಾತ್ರೆ</string>
+    <string name="app_subtitle">ಕದ್ರಿ ಮಂಜುನಾಥ ದೇವಸ್ಥಾನ ಜಾತ್ರೆ</string>
+    <string name="live_now">ನೇರ ಪ್ರಸಾರ</string>
+    <string name="see_all">ಎಲ್ಲವನ್ನೂ ವೀಕ್ಷಿಸಿ →</string>
+    <string name="settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="preferences">ಆದ್ಯತೆಗಳು</string>
+    <string name="language_title">ಭಾಷೆ</string>
+    <string name="language_default">ಇಂಗ್ಲೀಷ್ (ಡಿಫಾಲ್ಟ್)</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="notifications_title">ಅಧಿಸೂಚನೆಗಳು</string>
+    <string name="event_reminders">ಕಾರ್ಯಕ್ರಮದ ನೆನಪಿಸುವಿಕೆಗಳು</string>
+    <string name="reminders_enabled_desc">ಕಾರ್ಯಕ್ರಮದ 10 ನಿಮಿಷಗಳ ಮೊದಲು ನಿಮಗೆ ಸೂಚಿಸಲಾಗುತ್ತದೆ</string>
+    <string name="reminders_disabled_desc">ಯಾವುದೇ ಜ್ಞಾಪನೆಗಳನ್ನು ಕಳುಹಿಸಲಾಗುವುದಿಲ್ಲ</string>
+    <string name="emergency_contacts">ತುರ್ತು ಸಂಪರ್ಕಗಳು</string>
+    <string name="police">ಪೊಲೀಸ್</string>
+    <string name="ambulance">ಆಂಬ್ಯುಲೆನ್ಸ್</string>
+    <string name="fire_station">ಅಗ್ನಿಶಾಮಕ</string>
+    <string name="app_name_display">ಜಾತ್ರೆ ನಮ್ಮ ಹೆಮ್ಮೆ</string>
+    <string name="app_version_info">ಆವೃತ್ತಿ 1.0 · ಕರ್ನಾಟಕದಲ್ಲಿ &#x2764;&#xFE0F; ನಿಂದ ಮಾಡಲ್ಪಟ್ಟಿದೆ</string>
+    <string name="safety_map_desc">ಸ್ಥಳಗಳನ್ನು ಹುಡುಕಿ, ಎಚ್ಚರಿಕೆಗಳನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಸುರಕ್ಷಿತವಾಗಿರಿ</string>
+    <string name="live_alerts">&#x26A0;&#xFE0F; ನೇರ ಪ್ರಸಾರದ ಎಚ್ಚರಿಕೆಗಳು (%d)</string>
+    <string name="fair_directory_title">&#x1F4CD; ಜಾತ್ರೆಯ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="category_entry">ಪ್ರವೇಶ</string>
+    <string name="category_attraction">ಆಕರ್ಷಣೆ</string>
+    <string name="category_safety">ಸುರಕ್ಷತೆ</string>
+    <string name="category_parking">ಪಾರ್ಕಿಂಗ್</string>
+    <string name="category_amenities">ಸೌಲಭ್ಯಗಳು</string>
+    <string name="no_notifications_yet">ಯಾವುದೇ ಅಧಿಸೂಚನೆಗಳಿಲ್ಲ</string>
+    <string name="interactive_map_title">&#x1F5FA;&#xFE0F; ಸಂವಾದಾತ್ಮಕ ಜಾತ್ರೆಯ ನಕ್ಷೆ</string>
+    <!-- Fair Map Refactoring Strings -->
+    <string name="fair_map_subtitle">ಪಾರ್ಕಿಂಗ್, ಪ್ರಥಮ ಚಿಕಿತ್ಸೆ ಮತ್ತು ಮುಖ್ಯ ಸ್ಥಳಗಳನ್ನು ಹುಡುಕಿ</string>
+    <string name="legend_parking">ಪಾರ್ಕಿಂಗ್</string>
+    <string name="legend_first_aid">ಪ್ರಥಮ ಚಿಕಿತ್ಸೆ</string>
+    <string name="legend_food_court">ಆಹಾರ ಮಳಿಗೆ</string>
+    <string name="legend_temple">ದೇವಸ್ಥಾನ</string>
+    <string name="legend_help_desk">ಸಹಾಯ ಕೇಂದ್ರ</string>
+    <string name="btn_find_parking">ಪಾರ್ಕಿಂಗ್ ಹುಡುಕಿ</string>
+    <string name="btn_first_aid">ಪ್ರಥಮ ಚಿಕಿತ್ಸೆ</string>
+    <string name="btn_food_court">ಆಹಾರ ಮಳಿಗೆ</string>
+    <string name="btn_help_desk">ಸಹಾಯ ಕೇಂದ್ರ</string>
+    <string name="emergency_help_title">&#x1F6A8; ತುರ್ತು ಸಹಾಯ</string>
+    <string name="emergency_helpline_label">ತುರ್ತು ಸಹಾಯವಾಣಿ (ರಾಷ್ಟ್ರೀಯ)</string>
+    <string name="emergency_helpline_value">112</string>
+    <string name="first_aid_station_label">ಆಂಬ್ಯುಲೆನ್ಸ್ / ವೈದ್ಯಕೀಯ</string>
+    <string name="first_aid_station_value">108</string>
+    <string name="police_help_desk_label">ಪೊಲೀಸ್ ಸಹಾಯ ಕೇಂದ್ರ</string>
+    <string name="police_help_desk_value">100</string>
+    <string name="women_helpline_label">ಮಹಿಳಾ ಸಹಾಯವಾಣಿ</string>
+    <string name="women_helpline_value">1091</string>
+    <string name="child_helpline_label">ಮಕ್ಕಳ ಸಹಾಯವಾಣಿ</string>
+    <string name="child_helpline_value">1098</string>
+    <!-- Scannable Popup Strings (Kannada) -->
+    <string name="popup_title_parking">ಪಾರ್ಕಿಂಗ್ ವಲಯ A</string>
+    <string name="popup_desc_parking">ಪಶ್ಚಿಮ ದ್ವಾರದ ಬಳಿ\n200+ ವಾಹನಗಳು</string>
+    <string name="popup_title_stage">ಮುಖ್ಯ ವೇದಿಕೆ</string>
+    <string name="popup_desc_stage">ಸಾಂಸ್ಕೃತಿಕ ಕೇಂದ್ರ\nನೇರ ಪ್ರದರ್ಶನಗಳು</string>
+    <string name="popup_title_temple">ಕದ್ರಿ ಮಂಜುನಾಥ ದೇವಸ್ಥಾನ</string>
+    <string name="popup_desc_temple">ಮುಖ್ಯ ದರ್ಶನ ಸಾಲು\nರಥೋತ್ಸವ ಪ್ರಾರಂಭ</string>
+    <string name="popup_title_stall">ಆಹಾರ ಮಳಿಗೆಗಳು</string>
+    <string name="popup_desc_stall">ಪೂರ್ವ ಬದಿಯ ಪ್ರದೇಶ\n30+ ಮಳಿಗೆಗಳು</string>
+    <string name="popup_title_first_aid">ಪ್ರಥಮ ಚಿಕಿತ್ಸಾ ಕೇಂದ್ರ</string>
+    <string name="popup_desc_first_aid">ದೇವಸ್ಥಾನದ ಗೇಟ್ ಬಳಿ\n24/7 ವೈದ್ಯಕೀಯ ಸಿಬ್ಬಂದಿ</string>
+    <string name="popup_title_help_desk">ಪೊಲೀಸ್ ಸಹಾಯ ಕೇಂದ್ರ</string>
+    <string name="popup_desc_help_desk">ಮುಖ್ಯ ದ್ವಾರದ ಬೂತ್\nಮಾಹಿತಿ ಮತ್ತು ಭದ್ರತೆ</string>
+    <string name="popup_title_entry">ಮುಖ್ಯ ಪ್ರವೇಶ ದ್ವಾರ</string>
+    <string name="popup_desc_entry">ದಕ್ಷಿಣ ದ್ವಾರ\nಟಿಕೆಟ್ ಮತ್ತು ಭದ್ರತಾ ತಪಾಸಣೆ</string>
+    <string name="popup_type_entry">ಪ್ರವೇಶ</string>
+    <!-- Map Guidance and Flow Strings -->
+    <string name="map_guidance_title">ನಕ್ಷೆಯನ್ನು ಬಳಸುವುದು ಹೇಗೆ</string>
+    <string name="map_guidance_desc">ಸ್ಥಳಗಳನ್ನು ಅನ್ವೇಷಿಸಲು ಮಾರ್ಕರ್‌ಗಳನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ.\nತ್ವರಿತ ನ್ಯಾವಿಗೇಷನ್‌ಗಾಗಿ ಕೆಳಗಿನ ಬಟನ್‌ಗಳನ್ನು ಬಳಸಿ.</string>
+    <string name="map_tap_instruction">ಸ್ಥಳಗಳನ್ನು ವೀಕ್ಷಿಸಲು ಮಾರ್ಕರ್ ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
+    <string name="find_locations">ಸ್ಥಳಗಳನ್ನು ಹುಡುಕಿ</string>
+
+    <!-- Dynamic Status Labels -->
+    <string name="status_live">ನೇರ</string>
+    <string name="status_active">ಸಕ್ರಿಯ</string>
+    <string name="status_resolved">ಪರಿಹರಿಸಲಾಗಿದೆ</string>
+    <string name="status_completed">ಮುಕ್ತಾಯ</string>
+    <string name="status_upcoming">ಮುಂಬರುವ</string>
+    <string name="status_closed">ಮುಚ್ಚಲಾಗಿದೆ</string>
+
+    <!-- Button Labels -->
+    <string name="btn_contact">ಸಂಪರ್ಕಿಸಿ</string>
+    <string name="btn_mark_resolved">ಪರಿಹರಿಸು</string>
+
+    <!-- Formatted Labels -->
+    <string name="label_by_reporter">%1$s · %2$s ರಿಂದ</string>
+    <string name="day_label">%1$d ನೇ ದಿನ</string>
+    <string name="events_for_day">%1$d ನೇ ದಿನದ ಕಾರ್ಯಕ್ರಮಗಳು</string>
+
+    <!-- Empty States -->
+    <string name="no_events_found">%1$d ನೇ ದಿನದಲ್ಲಿ ಯಾವುದೇ ಕಾರ್ಯಕ್ರಮ ಕಂಡುಬಂದಿಲ್ಲ.</string>
+    <string name="no_items_found">ಯಾವುದೇ ವಸ್ತುಗಳು ಕಂಡುಬಂದಿಲ್ಲ.</string>
+    <string name="no_alerts_active">ಯಾವುದೇ ಸಕ್ರಿಯ ಎಚ್ಚರಿಕೆಗಳಿಲ್ಲ.</string>
+
+    <!-- Lost &amp; Found Screen -->
+    <string name="lost_found_subtitle">ಕಳೆದ ಮತ್ತು ಸಿಕ್ಕಿತು ಸಹಾಯ ಕೇಂದ್ರ</string>
+    <string name="stat_label_active">ಸಕ್ರಿಯ</string>
+    <string name="dialog_lost_it">ಕಳೆದುಕೊಂಡಿದ್ದೇನೆ</string>
+    <string name="dialog_found_it">ದೊರಕಿಸಿಕೊಂಡಿದ್ದೇನೆ</string>
+    <string name="dialog_add_photo">ಫೋಟೋ ಸೇರಿಸಿ (ಐಚ್ಛಿಕ)</string>
+    <string name="dialog_category_label">ವರ್ಗ *</string>
+    <string name="dialog_section_item_details">1. ವಸ್ತುವಿನ ವಿವರ</string>
+    <string name="dialog_section_location">2. ಎಲ್ಲಿ?</string>
+    <string name="dialog_section_contact">3. ನಿಮ್ಮ ಸಂಪರ್ಕ ಮಾಹಿತಿ</string>
+
+    <!-- Form Validation Errors -->
+    <string name="err_select_type">ಕಳೆದುಹೋಗಿದೆ ಅಥವಾ ದೊರಕಿದೆ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="err_title_required">ಶೀರ್ಷಿಕೆ ಅಗತ್ಯ</string>
+    <string name="err_title_min">ಕನಿಷ್ಠ 3 ಅಕ್ಷರಗಳು</string>
+    <string name="err_desc_required">ವಿವರಣೆ ಅಗತ್ಯ</string>
+    <string name="err_desc_min">ಕನಿಷ್ಠ 10 ಅಕ್ಷರಗಳು</string>
+    <string name="err_category_required">ವರ್ಗ ಆಯ್ಕೆ ಮಾಡಿ</string>
+    <string name="err_location_required">ಸ್ಥಳ ಅಗತ್ಯ</string>
+    <string name="err_location_min">ಕನಿಷ್ಠ 3 ಅಕ್ಷರಗಳು</string>
+    <string name="err_contact_required">ಸಂಪರ್ಕ ಸಂಖ್ಯೆ ಅಗತ್ಯ</string>
+    <string name="err_contact_length">ನಿಖರವಾಗಿ 10 ಅಂಕಿಗಳು ಇರಬೇಕು</string>
+    <string name="err_name_required">ನಿಮ್ಮ ಹೆಸರು ಅಗತ್ಯ</string>
+    <string name="err_name_min">ಕನಿಷ್ಠ 2 ಅಕ್ಷರಗಳು</string>
+
+    <!-- Notifications -->
+    <string name="notif_event_title">ಮುಂಬರುವ ಕಾರ್ಯಕ್ರಮ: %1$s</string>
+    <string name="notif_event_message">%1$s 10 ನಿಮಿಷಗಳಲ್ಲಿ %2$s ನಲ್ಲಿ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ</string>
+    <!-- Map Zone Labels -->
+    <string name="zone_a_temple">A — ದೇವಸ್ಥಾನ</string>
+    <string name="zone_b_food">B — ಆಹಾರ</string>
+    <string name="zone_c_parking">C — ಪಾರ್ಕಿಂಗ್</string>
+    <string name="zone_d_stage">D — ವೇದಿಕೆ</string>
+    <string name="zone_e_help">E — ಸಹಾಯ</string>
+    <string name="you_are_here">&#x1F4CD; ನೀವು ಇಲ್ಲಿದ್ದೀರಿ</string>
+
+    <!-- Navigation Labels -->
+    <string name="nav_home">ಮನೆ</string>
+    <string name="nav_schedule">ವೇಳಾಪಟ್ಟಿ</string>
+    <string name="nav_map">ನಕ್ಷೆ</string>
+    <string name="nav_help_desk">ಸಹಾಯ ಕೇಂದ್ರ</string>
+
+    <!-- Cultural Stories -->
+    <string name="cultural_stories_subtitle">ಸಂಪ್ರದಾಯಗಳು ಮತ್ತು ಐತಿಹ್ಯಗಳು</string>
+    <string name="loading_story">ಕಥೆ ಲೋಡ್ ಆಗುತ್ತಿದೆ…</string>
+
+    <!-- Lost &amp; Found Category Names -->
+    <string name="category_person">ವ್ಯಕ್ತಿ</string>
+    <string name="category_jewellery">ಒಡವೆ</string>
+    <string name="category_bag">ಚೀಲ</string>
+    <string name="category_other">ಇತರೆ</string>
+
+</resources>

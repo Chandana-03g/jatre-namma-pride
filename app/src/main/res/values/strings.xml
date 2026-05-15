@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jatre Namma Pride</string>
+    <string name="welcome_jatre">Welcome to the Jatre</string>
+    <string name="happening_now">HAPPENING NOW</string>
+    <string name="next_event">NEXT EVENT</string>
+    <string name="quick_access">QUICK ACCESS</string>
+    <string name="live_schedule">Live Schedule</string>
+    <string name="fair_map">Fair Map</string>
+    <string name="lost_found">Lost &amp; Found</string>
+    <string name="safety_parking">Safety &amp; Parking</string>
+    <string name="cultural_stories">CULTURAL STORIES</string>
+    <string name="live">LIVE</string>
+    <string name="day_2_of_3">3 Days</string>
+    <string name="view_schedule">View Schedule →</string>
+    <string name="report_item">Report Item</string>
+    <string name="search_lost_found">Search items...</string>
+    <string name="all_items">All</string>
+    <string name="status_lost">Lost</string>
+    <string name="status_found">Found</string>
+    <string name="contact_owner">Contact Owner</string>
+    <string name="claim_item">Claim Item</string>
+    <string name="name_title">Name / Title *</string>
+    <string name="name_placeholder">e.g. Blue Backpack, Young Boy – Raju</string>
+    <string name="description_spec">Description / Specifications *</string>
+    <string name="desc_placeholder">Color, size, distinguishing marks...</string>
+    <string name="location">Location *</string>
+    <string name="loc_placeholder">e.g. Zone A — Temple Area</string>
+    <string name="contact_number">Contact Number *</string>
+    <string name="contact_placeholder">10-digit mobile number</string>
+    <string name="your_name">Your Name *</string>
+    <string name="your_name_placeholder">e.g. Ramesh Kumar</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="safety_map">Safety Map</string>
+    <string name="safety_reminder">Safety Reminder</string>
+    <string name="safety_reminder_text">Please keep an eye on your belongings in crowded areas.</string>
+    <string name="events_today">27 events</string>
+    <string name="zones_8">8 zones</string>
+    <string name="active_3">3 active</string>
+    <string name="zones_2">2 zones</string>
+    <string name="yellamma_jatre">Kadri Manjunatha Temple Jatre</string>
+    <string name="yellamma_location_date">Mangaluru, Karnataka · May 16–May 18, 2026</string>
+    <string name="kannada_schedule">Schedule</string>
+    <string name="kannada_map">Map</string>
+    <string name="kannada_lost_found">Lost &amp; Found</string>
+    <string name="kannada_safety">Safety</string>
+    <string name="live_now_day_2">FESTIVAL SCHEDULE</string>
+    <string name="todays_events">Today\'s Events</string>
+    <string name="date_jatre">May 16–18, 2026</string>
+    <string name="upcoming_completed">UPCOMING &amp; COMPLETED</string>
+    <string name="started">Started</string>
+    <string name="ends">Ends</string>
+    <string name="help_desk">Help Desk</string>
+    <string name="jatre_help_desk">Jatre Help Desk</string>
+    <string name="religious">Religious</string>
+    <string name="cultural">Cultural</string>
+    <string name="sports">Sports</string>
+    <string name="trade">Trade</string>
+    <string name="resolved">Resolved</string>
+    <string name="safety_map_subtitle">Safety &amp; Map · Parking · First Aid · Stalls</string>
+    <string name="map_legend">MAP LEGEND</string>
+    <string name="safety_guidelines">SAFETY GUIDELINES</string>
+    <string name="safety_reminder_desc">Keep children close. First Aid post near Temple Gate. Emergency: </string>
+    <string name="app_title_mixed">Namma Jatre</string>
+    <string name="app_subtitle">Kadri Manjunatha Temple Jatre</string>
+    <string name="live_now">LIVE NOW</string>
+    <string name="see_all">See All →</string>
+    <string name="settings">Settings</string>
+    <string name="preferences">Preferences</string>
+    <string name="language_title">Language</string>
+    <string name="language_default">Default language</string>
+    <string name="kannada">Kannada</string>
+    <string name="notifications_title">Notifications</string>
+    <string name="event_reminders">Event Reminders</string>
+    <string name="reminders_enabled_desc">You\'ll be notified 10 min before events</string>
+    <string name="reminders_disabled_desc">No reminders will be sent</string>
+    <string name="emergency_contacts">Emergency Contacts</string>
+    <string name="police">Police</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="fire_station">Fire Station</string>
+    <string name="app_name_display">Jatre Namma Pride</string>
+    <string name="app_version_info">Version 1.0 · Made with &#x2764;&#xFE0F; in Karnataka</string>
+    <string name="safety_map_desc">Find locations, check alerts &amp; stay safe</string>
+    <string name="live_alerts">&#x26A0;&#xFE0F; LIVE ALERTS (%d)</string>
+    <string name="fair_directory_title">&#x1F4CD; FAIR DIRECTORY</string>
+    <string name="category_entry">ENTRY</string>
+    <string name="category_attraction">ATTRACTION</string>
+    <string name="category_safety">SAFETY</string>
+    <string name="category_parking">PARKING</string>
+    <string name="category_amenities">AMENITIES</string>
+    <string name="no_notifications_yet">No notifications yet</string>
+    <string name="interactive_map_title">&#x1F5FA;&#xFE0F; INTERACTIVE FAIR MAP</string>
+    <!-- Fair Map Refactoring Strings -->
+    <string name="fair_map_subtitle">Find parking, first aid &amp; important locations</string>
+    <string name="legend_parking">Parking</string>
+    <string name="legend_first_aid">First Aid</string>
+    <string name="legend_food_court">Food Court</string>
+    <string name="legend_temple">Temple</string>
+    <string name="legend_help_desk">Help Desk</string>
+    <string name="btn_find_parking">Find Parking</string>
+    <string name="btn_first_aid">First Aid</string>
+    <string name="btn_food_court">Food Court</string>
+    <string name="btn_help_desk">Help Desk</string>
+    <string name="emergency_help_title">&#x1F6A8; EMERGENCY HELP</string>
+    <string name="emergency_helpline_label">National Emergency</string>
+    <string name="emergency_helpline_value">112</string>
+    <string name="first_aid_station_label">Ambulance / Medical</string>
+    <string name="first_aid_station_value">108</string>
+    <string name="police_help_desk_label">Police Help Desk</string>
+    <string name="police_help_desk_value">100</string>
+    <string name="women_helpline_label">Women Helpline</string>
+    <string name="women_helpline_value">1091</string>
+    <string name="child_helpline_label">Child Helpline</string>
+    <string name="child_helpline_value">1098</string>
+    <!-- Scannable Popup Strings (English) -->
+    <string name="popup_title_parking">Parking Zone A</string>
+    <string name="popup_desc_parking">Near West Entrance\n200+ Vehicles</string>
+    <string name="popup_title_stage">Main Stage</string>
+    <string name="popup_desc_stage">Cultural Center\nLive Performances</string>
+    <string name="popup_title_temple">Kadri Manjunatha Temple</string>
+    <string name="popup_desc_temple">Main Darshan Queue\nRatha Yatra Start</string>
+    <string name="popup_title_stall">Food Court</string>
+    <string name="popup_desc_stall">East Side Area\n30+ Food Stalls</string>
+    <string name="popup_title_first_aid">First Aid Post</string>
+    <string name="popup_desc_first_aid">Near Temple Gate\n24/7 Medical Staff</string>
+    <string name="popup_title_help_desk">Police Help Desk</string>
+    <string name="popup_desc_help_desk">Main Gate Booth\nLost &amp; Found Guidance</string>
+    <string name="popup_title_entry">Main Entrance</string>
+    <string name="popup_desc_entry">South Gate\nTicket &amp; Security Check</string>
+    <string name="popup_type_entry">ENTRY</string>
+    <!-- Map Guidance and Flow Strings -->
+    <string name="map_guidance_title">How to Use the Map</string>
+    <string name="map_guidance_desc">Tap markers to explore locations.\nUse buttons below for quick navigation.</string>
+    <string name="map_tap_instruction">Tap a marker to explore locations.</string>
+    <string name="find_locations">FIND LOCATIONS</string>
+
+    <!-- Dynamic Status Labels -->
+    <string name="status_live">LIVE</string>
+    <string name="status_active">Active</string>
+    <string name="status_resolved">Resolved</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_upcoming">Upcoming</string>
+    <string name="status_closed">Closed</string>
+
+    <!-- Button Labels -->
+    <string name="btn_contact">Contact</string>
+    <string name="btn_mark_resolved">Mark Resolved</string>
+
+    <!-- Formatted Labels (use String.format arguments) -->
+    <string name="label_by_reporter">%1$s · by %2$s</string>
+    <string name="day_label">Day %1$d</string>
+    <string name="events_for_day">Events for Day %1$d</string>
+
+    <!-- Empty States -->
+    <string name="no_events_found">No events found for Day %1$d.</string>
+    <string name="no_items_found">No items found.</string>
+    <string name="no_alerts_active">No active alerts right now.</string>
+
+    <!-- Lost &amp; Found Screen -->
+    <string name="lost_found_subtitle">Lost &amp; Found Help Desk</string>
+    <string name="stat_label_active">Active</string>
+    <string name="dialog_lost_it">Lost It</string>
+    <string name="dialog_found_it">Found It</string>
+    <string name="dialog_add_photo">Add Photo (Optional)</string>
+    <string name="dialog_category_label">Category *</string>
+    <string name="dialog_section_item_details">1. Item Details</string>
+    <string name="dialog_section_location">2. Where was it?</string>
+    <string name="dialog_section_contact">3. Your Contact Info</string>
+
+    <!-- Form Validation Errors -->
+    <string name="err_select_type">Please select Lost or Found</string>
+    <string name="err_title_required">Title is required</string>
+    <string name="err_title_min">At least 3 characters</string>
+    <string name="err_desc_required">Description is required</string>
+    <string name="err_desc_min">At least 10 characters</string>
+    <string name="err_category_required">Select a category</string>
+    <string name="err_location_required">Location is required</string>
+    <string name="err_location_min">At least 3 characters</string>
+    <string name="err_contact_required">Contact number is required</string>
+    <string name="err_contact_length">Must be exactly 10 digits</string>
+    <string name="err_name_required">Your name is required</string>
+    <string name="err_name_min">At least 2 characters</string>
+
+    <!-- Notifications -->
+    <string name="notif_event_title">Upcoming Event: %1$s</string>
+    <string name="notif_event_message">%1$s starts in 10 minutes at %2$s</string>
+    <!-- Map Zone Labels -->
+    <string name="zone_a_temple">A — Temple</string>
+    <string name="zone_b_food">B — Food</string>
+    <string name="zone_c_parking">C — Parking</string>
+    <string name="zone_d_stage">D — Stage</string>
+    <string name="zone_e_help">E — Help</string>
+    <string name="you_are_here">&#x1F4CD; You Are Here</string>
+
+    <!-- Navigation Labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_schedule">Schedule</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_help_desk">Help Desk</string>
+
+    <!-- Cultural Stories -->
+    <string name="cultural_stories_subtitle">Traditions &amp; Legends</string>
+    <string name="loading_story">Loading story…</string>
+
+    <!-- Lost &amp; Found Category Names -->
+    <string name="category_person">Person</string>
+    <string name="category_jewellery">Jewellery</string>
+    <string name="category_bag">Bag</string>
+    <string name="category_other">Other</string>
+</resources>
